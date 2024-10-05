@@ -1,0 +1,135 @@
+.vu{
+    position: absolute;
+    top: -11px;
+    font-size: 25px;
+    margin: 20px;
+    color: aqua;
+}
+.po{
+    color: aqua;
+    
+}
+.navi{
+    color: whitesmoke;
+    list-style-type:none ;
+    display: flex;
+    margin: 12px;
+}
+li{
+    margin: 20px;
+    position: relative;
+    top: -68px;
+    font-family: cursive;
+    /* border-right: 1px solid white; */
+    
+}
+
+body{
+    background-color: black;
+    margin: 0px;
+}
+@media screen and (min-width:400px) and (max-width:1140px) {
+    .one{
+        position: relative;
+        left: 271px;
+    }
+    .koi{
+       position: relative;
+        left: 271px; 
+    }
+    
+}
+.dup{
+    color: gold;
+    /* margin-left: 3px; */
+    padding: 13px;
+    width: 511px;
+    border: 0.8px solid rgba(255, 255, 255, 0.832);
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(85, 82, 82);
+
+
+}
+.dup:hover{
+    transform: scale(1.2);
+}
+.ui{
+    margin: 20px;
+    position: relative;
+    top: -144px;
+    font-family: cursive;
+}
+a:active{
+    color: whitesmoke;
+    /* text-decoration: none; */
+}
+a:visited{
+    color: whitesmoke;
+    /* text-decoration: none; */
+}
+li:hover{
+    color: black;
+    /* background-image: linear-gradient(aqua,red,gold); */
+    font-size: 30px;
+    border-radius: 5px 5px 5px 5px;
+    /* text-decoration: none; */
+}
+.navi1{
+    color: whitesmoke;
+    list-style-type:none ;
+    display: flex; 
+    margin: 0px;
+}
+.one{
+    color: gold;
+    text-align: center;
+    margin: 0px;
+    margin-top: 0px;
+    text-shadow: 0px 0px 15px white;
+    /* border: 2px solid red; */
+    /* display: inline; */
+    /* position: absolute; */
+    /* left: 700px; */
+    border-radius: 0px 0px 20px 20px;
+    /* background-image: linear-gradient(aqua,green,blue); */
+}
+.po{
+    color: aqua;
+    
+}
+.end{
+    /* font-weight: bold; */
+    font-family: cursive;
+    text-align: center;
+    color: ghostwhite;
+    text-shadow: 0px 0px 20px #e608d0;
+    /* position: relative; */
+    /* top: -1500px; */
+}
+.cpcd{
+    display: flex;
+    color: gold;
+    justify-content: center;
+}
+.cpcd > div{
+    margin: 8px;
+    font-family: cursive;
+
+    
+    /* position: relative; */
+    /* top: -1460px; */
+}
+.cpcd > div:hover{
+    transform: scale(1.1);
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    /* position: relative; */
+    /* top: -1455px; */
+    
+}
+.icon > div{
+    margin: 8px;
+}

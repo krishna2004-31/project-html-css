@@ -1,0 +1,522 @@
+.one{
+    color: gold;
+    text-align: center;
+    margin: 0px;
+    margin-top: 0px;
+    text-shadow: 0px 0px 15px white;
+    /* border: 2px solid red; */
+    /* display: inline; */
+    /* position: absolute; */
+    /* left: 700px; */
+    border-radius: 0px 0px 20px 20px;
+    /* background-image: linear-gradient(aqua,green,blue); */
+}
+@media screen and (min-width:400px) and (max-width:1140px) {
+    .one{
+        position: relative;
+        left: 271px;
+    }
+    .koi{
+       position: relative;
+        left: 271px; 
+    }
+    
+}
+.po{
+    color: aqua;
+    
+}
+body{
+    /* background-image: url(../IMG.in/sukuna.gif) !important;
+    background-repeat: no-repeat;
+     background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed; */
+    background-color: black;
+    margin: 0px;
+}
+.vu{
+    position: absolute;
+    top: -11px;
+    font-size: 25px;
+    margin: 20px;
+    color: aqua;
+}
+.navi{
+    color: whitesmoke;
+    list-style-type:none ;
+    display: flex;
+    margin: 12px;
+}
+li{
+    margin: 20px;
+    position: relative;
+    top: -68px;
+    font-family: cursive;
+    /* border-right: 1px solid white; */
+    
+}
+a{
+    color: whitesmoke;
+    /* text-decoration: none; */
+}
+a:visited{
+    color: whitesmoke;
+    /* text-decoration: none; */
+}
+li:hover{
+    color: black;
+    /* background-image: linear-gradient(aqua,red,gold); */
+    font-size: 30px;
+    border-radius: 5px 5px 5px 5px;
+    
+    /* text-decoration: none; */
+}
+.navi1{
+    color: whitesmoke;
+    list-style-type:none ;
+    display: flex; 
+    margin: 0px;
+}
+.ui{
+    margin: 20px;
+    position: relative;
+    top: -144px;
+    font-family: cursive;
+}
+.ani{
+    height: 368px;
+    width: 341px;
+    animation: ani 6s infinite alternate;
+    position: relative;
+    top: -167px;
+    left: -1px;
+    background-size: 341px 368px;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 40px;
+    border: 2px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+@keyframes ani{
+    /* 50%{background-image: url(../IMG.in/Naruto.jpeg);}
+    50%{background-image: url(../IMG.in/Goku.jpeg);} */
+    from{background-image: url(../IMG.in/Naruto.jpeg);}
+    to{background-image: url(../IMG.in/Goku.jpeg);}
+
+}
+.ani2{
+    height: 368px;
+    width: 341px;
+    animation: ani2 6s infinite alternate;
+    position: relative;
+    top: -535px;
+    left: 341px;
+    background-size: 341px 368px;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 67px;
+    border: 2px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+@keyframes ani2{
+    /* 50%{background-image: url(../IMG.in/Naruto.jpeg);}
+    50%{background-image: url(../IMG.in/Goku.jpeg);} */
+    from{background-image: url(../IMG.in/Onepice.jpeg);}
+    to{background-image: url(../IMG.in/Demon\ Slayer.jpeg);}
+
+}
+.ani3{
+    height: 368px;
+    width: 341px;
+    animation: ani3 6s infinite alternate;
+    position: relative;
+    top: -904px;
+    left: 683px;
+    background-size: 341px 368px;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 90px;
+    border: 2px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+@keyframes ani3{
+    /* 50%{background-image: url(../IMG.in/Naruto.jpeg);}
+    50%{background-image: url(../IMG.in/Goku.jpeg);} */
+    from{background-image: url(../IMG.in/wind.jpeg);}
+    to{background-image: url(../IMG.in/SOLO\ LEVELING.jpeg);}
+
+}
+.ani4{
+    height: 368px;
+    width: 341px;
+    animation: ani4 6s infinite alternate;
+    position: relative;
+    top: -1271px;
+    left: 1025px;
+    background-size: 341px 368px;
+    border-radius: 40px 40px 40px 40px;
+    margin-left: 113px;
+    border: 2px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+@keyframes ani4{
+    /* 50%{background-image: url(../IMG.in/Naruto.jpeg);}
+    50%{background-image: url(../IMG.in/Goku.jpeg);} */
+    from{background-image: url(../IMG.in/Mashle_\ Magic\ and\ Muscles.jpeg);}
+    to{background-image: url(../IMG.in/atteck.jpeg);}
+    /* 10%{background-image: url(../IMG.in/Goku.jpeg);} */
+
+}
+/* input:hover{
+    background-color: white;
+    color: black;
+} */
+.hom{
+    text-align: center;
+    font-family: cursive;
+    text-decoration: underline;
+    color: aqua;
+    position: relative;
+    top: -1165px;
+}
+.dac{
+    position: relative;
+    top: -1203px;
+    left: -9px;
+    width: 207px;
+    height: 329px;
+}
+.dac2{
+    position: relative;
+    top: -1751px;
+    left: 1258px;
+    width: 207px;
+    height: 329px;
+}
+.cont{
+    color: aqua;
+    /* border: 1px solid red; */
+    width: 1000px;
+    position: relative;
+    top: -1456px;
+    left: 253px;
+}
+#show{
+    display: flex;
+    position: relative;
+    top: -1700px;
+    /* left: 239px; */
+    
+}
+#show > div{
+    margin: 10px;
+    /* border: 1px solid aqua;
+    display: inline; */
+    /* border-radius: 8px 8px 8px 8px; */
+
+}
+.inrto{
+    color: aqua;
+    margin-left: 93px;
+    margin: 2px;
+    position: relative;
+    left: 91px;
+
+}
+.inrto2{
+    color: aqua;
+    margin: 6px;
+}
+.inrto3{
+    color: aqua;
+    margin: 6px;
+    /* position: relative; 
+    top: -28px;
+    left: 17px; */
+}
+/* .blur{
+    transition: width 3s,height 3s,transform 2s;
+} */
+.blur:hover{
+    
+    transform: scale(1.4);
+    /* transform: rotate(360deg);
+    width: 300px;
+    height: 350px; */
+
+}
+/* .blur:hover{
+    transform: rotate(360deg);
+} */
+/* .tb{
+    color: aqua;
+    position: relative;
+    top: -1602px;
+    left: 700px;
+    
+}
+td{
+    margin: 100px;
+} */
+.abcd{
+    display: flex;
+    /* border: 1px solid aqua; */
+    color: aqua;
+    position: relative;
+    top: -1577px;
+    justify-content: center;
+}
+.abcd > div{
+    margin: 5px;
+    border: 1px solid aqua;
+    padding: 15px;
+    border-radius: 3px 3px 3px 3px;
+    
+}
+.abcd > div:hover{
+    background-color: aqua;
+    color: black;
+}
+.end{
+    /* font-weight: bold; */
+    font-family: cursive;
+    text-align: center;
+    color: ghostwhite;
+    text-shadow: 0px 0px 20px #e608d0;
+    position: relative;
+    top: -1500px;
+}
+.cpcd{
+    display: flex;
+    color: gold;
+    justify-content: center;
+}
+.cpcd > div{
+    margin: 8px;
+    font-family: cursive;
+    position: relative;
+    top: -1460px;
+}
+.help:hover{
+    color: whitesmoke;
+    font-size: 20px;
+    text-shadow: 0px 0px 20px #e608d0;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    position: relative;
+    top: -1455px;
+    
+}
+.icon > div{
+    margin: 8px;
+}
+a:hover{
+    color: aqua;
+    /* transform: rotate(360deg); */
+    font-size: 30px;
+    
+}
+/* .abcd > div:hover{
+    transform: scale(1.1);
+    ba
+} */
+.tr{
+    display: flex;
+    color: aqua;
+    margin: 4px;
+
+}
+.im{
+    height: 269px;
+    width: 197px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+
+.tr > div{
+    margin: 26px;
+    
+}
+.nm{
+    color: aqua;
+}
+.nm:hover{
+    
+    transform: scale(1.1);
+    /* transform: rotate(360deg);
+    width: 300px;
+    height: 350px; */
+
+}
+.num{
+    color: gold;
+    font-size: 28px;
+}
+.im:hover{
+    
+    transform: scale(1.4);
+    
+
+}
+.share{
+    display: flex;
+    color: gold;
+    
+}
+.share > div{
+    margin: 7px;
+}
+.share > div:hover{
+    transform: scale(1.1);
+}
+.top{
+    color: aqua;
+    /* margin: 3px; */
+    padding: 13px;
+    width: 361px;
+    border-bottom: 0.8px solid rgba(245, 245, 245, 0.155);
+    border-radius: 15px 15px 15px 15px;
+}
+.top:hover{
+    transform: scale(1.1);
+    background-color: gray;
+    color: black;
+}
+.had{
+    color: gold;
+    padding: 20px;
+    text-align: left;
+    font-size: 23px;
+    font-family: cursive;
+}
+.tab{
+    margin: 52px 32px 10px 28px;
+}
+.sub{
+    display: flex;
+    color: aqua;
+}
+.sub1{
+    border: 1px solid black;
+    margin: 1px;
+    border-radius: 5px 0px 0px 5px;
+    color: black;
+    background-color: darkgray;
+    font-family: cursive;
+    font-size: 13px;
+    margin-left: 85px;
+    margin-top: -21px;
+}
+.sub2{
+    border: 1px solid black;
+    margin: 1px;
+    border-radius: 0px 5px 5px 0px;
+    color: black;
+    background-color:rgb(180, 132, 132);
+    font-family: cursive;
+    font-size: 13px;
+    margin-top: -21px;
+}
+.shu{
+    /* margin-left: 20px;
+    margin-top: 10px; */
+    color:black;
+}
+.cpcd{
+    display: flex;
+    color: gold;
+    justify-content: center;
+}
+.cpcd > div{
+    margin: 8px;
+    font-family: cursive;
+
+    
+    /* position: relative; */
+    /* top: -1460px; */
+}
+.cpcd > div:hover{
+    transform: scale(1.1);
+}
+
+/* .lin:link {
+    color: gold;
+}
+.lin:visited{
+    color: gold;
+} */
+.lin:hover{
+    color: antiquewhite;
+    /* transform: scale(1.2); */
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    /* position: relative; */
+    /* top: -1455px; */
+    
+}
+.icon > div{
+    margin: 8px;
+}
+.tr{
+    display: flex;
+    color: aqua;
+    margin: 4px;
+
+}
+.im{
+    height: 269px;
+    width: 197px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+
+.tr > div{
+    margin: 26px;
+    
+}
+.nm{
+    color: aqua;
+}
+.nm:hover{
+    
+    transform: scale(1.1);
+    
+    /* transform: rotate(360deg);
+    width: 300px;
+    height: 350px; */
+
+}
+.im:hover{
+    
+    transform: scale(1.4);
+    
+
+}
+.num{
+    color: gold;
+    font-size: 28px;
+}
+.yu:hover{
+    transform: scale(1.1);
+}
+.end{
+    /* font-weight: bold; */
+    font-family: cursive;
+    text-align: center;
+    color: ghostwhite;
+    text-shadow: 0px 0px 20px #e608d0;
+    /* position: relative; */
+    /* top: -1500px; */
+}   
+.mvp{
+    position: relative;
+    top: -1646px;;
+}
+
+ 

@@ -1,0 +1,157 @@
+.vu{
+    position: absolute;
+    top: -11px;
+    font-size: 25px;
+    margin: 20px;
+    color: aqua;
+}
+.po{
+    color: aqua;
+    
+}
+.navi{
+    color: whitesmoke;
+    list-style-type:none ;
+    display: flex;
+    margin: 12px;
+}
+li{
+    margin: 20px;
+    position: relative;
+    top: -68px;
+    font-family: cursive;
+    /* border-right: 1px solid white; */
+    
+}
+.tr{
+    display: flex;
+    color: aqua;
+    margin: 4px;
+
+}
+.im{
+    height: 269px;
+    width: 197px;
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid aqua;
+    box-shadow:  0px -2px 12px 4px #b3a6a6;
+}
+
+.tr > div{
+    margin: 26px;
+    
+}
+.nm{
+    color: aqua;
+}
+.nm:hover{
+    
+    transform: scale(1.1);
+    /* transform: rotate(360deg);
+    width: 300px;
+    height: 350px; */
+
+}
+.num{
+    color: gold;
+    font-size: 28px;
+}
+.im:hover{
+    
+    transform: scale(1.4);
+    
+
+}
+.share{
+    display: flex;
+    color: gold;
+    
+}
+.share > div{
+    margin: 7px;
+}
+.share > div:hover{
+    transform: scale(1.1);
+}
+
+.abcd{
+    display: flex;
+    /* border: 1px solid aqua; */
+    color: aqua;
+    /* position: relative; */
+    /* top: -1577px; */
+    justify-content: center;
+}
+.abcd > div{
+    margin: 5px;
+    border: 1px solid aqua;
+    padding: 15px;
+    border-radius: 3px 3px 3px 3px;
+    
+}
+.abcd > div:hover{
+    background-color: aqua;
+    color: black;
+}
+.end{
+    /* font-weight: bold; */
+    font-family: cursive;
+    text-align: center;
+    color: ghostwhite;
+    text-shadow: 0px 0px 20px #e608d0;
+    /* position: relative; */
+    /* top: -1500px; */
+}
+.cpcd{
+    display: flex;
+    color: gold;
+    justify-content: center;
+}
+.cpcd > div{
+    margin: 8px;
+    font-family: cursive;
+
+    
+    /* position: relative; */
+    /* top: -1460px; */
+}
+.cpcd > div:hover{
+    transform: scale(1.1);
+}
+
+/* .lin:link {
+    color: gold;
+}
+.lin:visited{
+    color: gold;
+} */
+/* .lin:hover{
+    color: antiquewhite;
+    /* transform: scale(1.2); */
+
+.icon{
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    /* position: relative; */
+    /* top: -1455px; */
+    
+}
+.icon > div{
+    margin: 8px;
+}
+@media screen and (min-width:400px) and (max-width:1140px) {
+    .one{
+        position: relative;
+        left: 271px;
+    }
+    .koi{
+       position: relative;
+        left: 271px; 
+    }
+    
+}
+body{
+    background-color: black;
+    margin: 0px;
+}
